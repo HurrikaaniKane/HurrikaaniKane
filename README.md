@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Python basics and how GitHub works. Hopefully can use these skills to boost my work effiency. Also a massive sports enthusiast so looking forward to creating different tools on that field!
+
 <!--
 **HurrikaaniKane/HurrikaaniKane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
